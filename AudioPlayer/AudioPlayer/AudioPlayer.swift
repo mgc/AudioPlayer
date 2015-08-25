@@ -9,7 +9,7 @@
 import UIKit
 import MediaPlayer
 import AVFoundation
-import ReachabilitySwift
+import Reachability
 
 private class ClosureContainer: NSObject {
     let closure: (sender: AnyObject) -> ()

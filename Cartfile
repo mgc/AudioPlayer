@@ -1,0 +1,4 @@
+# Swap with the following once https://github.com/ashleymills/Reachability.swift/pull/18 is merged
+#github "ashleymills/Reachability.swift" ~> 1.1
+
+github "Abizern/Reachability.swift" "carthage"
